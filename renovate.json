@@ -1,0 +1,17 @@
+[
+    {
+        "commitMessageTopic": "Terraform {{depName}}",
+        "fileMatch": [
+            "\\.tf$"
+        ],
+        "pinDigests": false
+    },
+    {
+        "fileMatch": [
+            "(^|/|\\.)([Dd]ocker|[Cc]ontainer)file$",
+            "(^|/)([Dd]ocker|[Cc]ontainer)file[^/]*$"
+        ]
+    }
+]
+
+$*pq8nx%qe7D0zy MxqF
